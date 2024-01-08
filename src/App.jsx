@@ -7,7 +7,7 @@ import Portfolio from "./sections/Portfolio";
 import Contact from "./sections/Contact";
 import Resume from "./sections/Resume";
 import Footer from "./components/Footer";
-import "./App.css"; // This will be your main stylesheet
+import "./App.css";
 
 function App() {
 	return (
@@ -19,7 +19,6 @@ function App() {
 					<Route path="/portfolio" element={<Portfolio />} />
 					<Route path="/contact" element={<Contact />} />
 					<Route path="/resume" element={<Resume />} />
-					{/* Add other routes as necessary */}
 				</Routes>
 			</main>
 			<Footer />
