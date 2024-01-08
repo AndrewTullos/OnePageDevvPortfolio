@@ -6,9 +6,9 @@ const links = [
 ];
 const stats = [
 	{ name: "Projects", value: "28+" },
-	{ name: "Full-time colleagues", value: "300+" },
+	{ name: "Technologies", value: "15+" },
 	{ name: "Hours per week", value: "40" },
-	{ name: "Paid time off", value: "Unlimited" },
+	{ name: "Certificates Received", value: "1" },
 ];
 
 export default function Example() {
@@ -48,7 +48,7 @@ export default function Example() {
 					<h2 className="text-4xl font-bold tracking-tight text-dark-blue sm:text-6xl">
 						About Me
 					</h2>
-					<p className="mt-6 text-lg leading-8 text-green-blue">
+					<p className="mt-6 text-lg leading-8 text-dark-blue">
 						Andrew Tullos, an emerging developer from Austin, Texas, is in the
 						final stages of his comprehensive bootcamp at the University of
 						Texas Austin.
@@ -90,7 +90,7 @@ export default function Example() {
 				<div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
 					<div className="grid grid-cols-1 gap-x-8 gap-y-6 text-base font-semibold leading-7 text-dark-blue sm:grid-cols-2 md:flex lg:gap-x-10">
 						{links.map((link) => (
-							<a key={link.name} href={link.href}>
+							<a className="animate-bounce" key={link.name} href={link.href}>
 								{link.name} <span aria-hidden="true">&rarr;</span>
 							</a>
 						))}
