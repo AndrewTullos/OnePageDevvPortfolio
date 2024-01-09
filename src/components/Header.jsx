@@ -2,6 +2,7 @@ import { Fragment } from "react";
 import { Disclosure, Transition } from "@headlessui/react";
 import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import { Link } from "react-router-dom";
+import assets from "path/to/assets/assets";
 
 const navigation = [
 	{ name: "Home", href: "/", current: true },
