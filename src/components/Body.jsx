@@ -1,4 +1,4 @@
-import assets from "./src/assets/assets.jsx";
+import assets from "../assets/assets.jsx";
 
 export default function Example() {
 	return (
