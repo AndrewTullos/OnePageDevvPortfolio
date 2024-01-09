@@ -1,4 +1,4 @@
-import meImage from "./src/assets/me.jpg";
+import meImage from "/src/assets/me.jpg";
 
 const assets = {
 	meImage,
