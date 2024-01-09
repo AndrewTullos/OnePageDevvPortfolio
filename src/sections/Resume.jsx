@@ -1,5 +1,4 @@
 import { CloudArrowUpIcon, ServerIcon } from "@heroicons/react/20/solid";
-import assets from "../assets/assets.jsx";
 
 export default function Example() {
 	return (

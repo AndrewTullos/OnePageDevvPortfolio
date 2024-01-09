@@ -1,5 +1,3 @@
-import assets from "../assets/assets.jsx";
-
 export default function Example() {
 	return (
 		<div className="bg-light-green">
