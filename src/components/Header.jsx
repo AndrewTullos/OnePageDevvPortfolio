@@ -74,7 +74,7 @@ export default function Example() {
 										<Link to="/" className="flex flex-shrink-0 items-center">
 											<img
 												className="h-8 w-8 m-2 rounded-full"
-												src="dist/me.jpg"
+												src="https://raw.githubusercontent.com/AndrewTullos/OnePageDevvPortfolio/main/src/assets/ME.jpg"
 												alt="Headshot portrait of developer"
 											/>
 										</Link>

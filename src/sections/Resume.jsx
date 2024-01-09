@@ -66,7 +66,7 @@ export default function Example() {
 				<div className="-ml-12 -mt-12 p-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden">
 					<img
 						className="w-[48rem] max-w-none rounded-xl bg-dark-blue shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]"
-						src="dist/me.jpg"
+						src="https://raw.githubusercontent.com/AndrewTullos/OnePageDevvPortfolio/main/src/assets/ME.jpg"
 						alt="Photo of developer"
 					/>
 				</div>
