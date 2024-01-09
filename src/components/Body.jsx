@@ -26,7 +26,7 @@ export default function Example() {
 						<h2 className="text-3xl font-bold tracking-tight text-dark-blue sm:text-4xl">
 							Discover the Art of Code
 							<br />
-							Your Journey into My Digital World Begins Here
+							Your Journey into My Digital <strong>World</strong> Begins Here
 						</h2>
 						<p className="mt-6 text-lg leading-8 text-dark-blue">
 							Dive into a realm where creativity meets technology. I blend
