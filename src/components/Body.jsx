@@ -53,7 +53,7 @@ export default function Example() {
 					<div className="relative mt-16 h-80 lg:mt-8">
 						<img
 							className="absolute left-0 top-20 w-[25rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10"
-							src="./public//me.jpg"
+							src="https://drive.google.com/file/d/1CYuz29l1PAqMT8GjbiDBk2MaTf84MX9M/view?usp=drive_link"
 							alt="App screenshot"
 							width={1824}
 							height={1080}

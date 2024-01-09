@@ -74,7 +74,7 @@ export default function Example() {
 										<Link to="/" className="flex flex-shrink-0 items-center">
 											<img
 												className="h-8 w-8 m-2 rounded-full"
-												src="./public//me.jpg"
+												src="https://drive.google.com/file/d/1CYuz29l1PAqMT8GjbiDBk2MaTf84MX9M/view?usp=drive_link"
 												alt="Headshot portrait of developer"
 											/>
 										</Link>
