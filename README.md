@@ -8,6 +8,10 @@ Welcome to Andrew Tullos's Portfolio, a comprehensive showcase of my journey and
 
 The main goal of this portfolio is to present a curated selection of my work, highlighting my skills, creativity, and experience in various aspects of software development. It serves as a platform to demonstrate my proficiency in web development, database management, and other key areas of technology as well as display my React knowledge.
 
+[Live Site Deployment](https://main--scintillating-quokka-8e91dc.netlify.app/)
+
+![Deployed Site](./src/assets/DeployedApp.png)
+
 ## Table of Contents
 
 - [Projects](#projects)
