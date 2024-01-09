@@ -75,7 +75,7 @@ export default function Example() {
 										<Link to="/" className="flex flex-shrink-0 items-center">
 											<img
 												className="h-8 w-8 m-2 rounded-full"
-												src="./src/assets/Me.jpg"
+												src="./src/assets/ME.jpg"
 												alt="Headshot portrait of developer"
 											/>
 										</Link>
