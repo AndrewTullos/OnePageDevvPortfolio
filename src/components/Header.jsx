@@ -2,7 +2,7 @@ import { Fragment } from "react";
 import { Disclosure, Transition } from "@headlessui/react";
 import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import { Link } from "react-router-dom";
-import assets from "path/to/assets/assets";
+import assets from "src/assets/assets.jsx";
 
 const navigation = [
 	{ name: "Home", href: "/", current: true },
@@ -76,7 +76,7 @@ export default function Example() {
 										<Link to="/" className="flex flex-shrink-0 items-center">
 											<img
 												className="h-8 w-8 m-2 rounded-full"
-												src="/assets/me.jpg"
+												src={assets.meImage}
 												alt="Headshot portrait of developer"
 											/>
 										</Link>
