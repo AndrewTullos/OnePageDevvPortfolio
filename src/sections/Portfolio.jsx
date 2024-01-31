@@ -15,8 +15,8 @@ const projects = [
 	},
 	{
 		id: 3,
-		title: "Weather Finder",
-		href: "https://github.com/AndrewTullos/WeatherDash",
+		title: "A.Iconic",
+		href: "https://project-3-8j08.onrender.com",
 		description:
 			"The Weather Finder is a user-friendly web application designed to provide current and five-day weather forecasts for cities around the globe.",
 	},
